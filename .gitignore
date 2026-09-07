@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+book2voice.db
+uploads/*
+!uploads/.gitkeep
+generated_audio/*
+!generated_audio/.gitkeep
+logs/*
+!logs/.gitkeep
+tunnel.out
+tunnel.log
+cloudflared.exe
+book2voice-render-*.zip
+
